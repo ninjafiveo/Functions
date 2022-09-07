@@ -1,8 +1,4 @@
-# DRY - Don't Repeat yourself.
-# DRY - Don't Repeat yourself.
-# DRY - Don't Repeat yourself.
-# DRY - Don't Repeat yourself.
-
+# Don't Repeat Yourself
 def directions():
     print("Turn Left out of parking lot.")
     print("Drive to stop light and turn left.")
